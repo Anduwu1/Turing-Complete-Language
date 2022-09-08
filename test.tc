@@ -1,0 +1,6 @@
+loop
+4
+if
+inc
+out
+endloop
